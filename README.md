@@ -1,16 +1,24 @@
-## Hi there 👋
+# Bem-vindo, eu sou o Yuri!
 
-<!--
-**YuriMine/YuriMine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Analista de Infraestrutura Pleno | SRE | Observabilidade
 
-Here are some ideas to get you started:
+Profissional de TI com experiência em infraestrutura, monitoramento e confiabilidade de ambientes, com foco em **Zabbix, Grafana e OpenTelemetry**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atuo na arquitetura e implementação de soluções de monitoramento, alta disponibilidade, integrações e automação de infraestrutura.
+
+### Competências
+
+- **Monitoramento:** Zabbix (ZCS e ZCP), Grafana e OpenTelemetry.
+- **Infraestrutura:** Linux, redes, PostgreSQL e MariaDB.
+- **Automação:** Python, JavaScript, Bash e agentes de IA.
+- **Orquestração:** Docker e Kubernetes.
+
+### Atualmente estudando
+
+- Zabbix 8 e evolução das arquiteturas de monitoramento.
+- OpenTelemetry e observabilidade.
+- Automação orientada a eventos e agentes de IA.
+
+---
+
+*Infraestrutura, observabilidade e automação.*
